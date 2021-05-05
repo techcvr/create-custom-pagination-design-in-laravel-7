@@ -1,4 +1,4 @@
-## create custom pagination design in laravel 7
+## Create Custom Pagination Design in Laravel 7
 
 First of all we need is execute this artisan command:
 ```php
